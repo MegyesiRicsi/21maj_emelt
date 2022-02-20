@@ -1,0 +1,7 @@
+W:\GitHub\21Maj_Gödrök_emelt közismereti\Gödrök\bin\Debug\Gödrök.exe.config
+W:\GitHub\21Maj_Gödrök_emelt közismereti\Gödrök\bin\Debug\Gödrök.exe
+W:\GitHub\21Maj_Gödrök_emelt közismereti\Gödrök\bin\Debug\Gödrök.pdb
+W:\GitHub\21Maj_Gödrök_emelt közismereti\Gödrök\obj\Debug\Gödrök.csprojAssemblyReference.cache
+W:\GitHub\21Maj_Gödrök_emelt közismereti\Gödrök\obj\Debug\Gödrök.csproj.CoreCompileInputs.cache
+W:\GitHub\21Maj_Gödrök_emelt közismereti\Gödrök\obj\Debug\Gödrök.exe
+W:\GitHub\21Maj_Gödrök_emelt közismereti\Gödrök\obj\Debug\Gödrök.pdb
